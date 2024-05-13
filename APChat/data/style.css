@@ -1,0 +1,20 @@
+html {
+    height: 75vh;
+}
+
+body {
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    margin-block-start: 1vh;
+    margin-block-end: 1vh;
+}
+
+textarea {
+    font-size: 1.75vw;
+    resize: none;
+}
